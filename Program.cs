@@ -9,8 +9,8 @@ namespace SnakeAndLadderProgram
             //RollTheDice.RollDice();
             //CheckOptions.CheckPositionOfPlayer();
             //WinningPosition100.RepeatTillPlayerReaches100();
-            ExactPosition_100.CheckExactPositionOf_100();
-            //CalNumberOfDice.CalNoOfDiceThrownToWin();
+            //ExactPosition_100.CheckExactPositionOf_100();
+            CalNumberOfDice.CalNoOfDiceThrownToWin();
         }
     }
 }
